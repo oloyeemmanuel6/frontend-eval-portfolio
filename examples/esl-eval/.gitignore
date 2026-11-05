@@ -1,0 +1,5 @@
+.env
+__pycache__/
+results/mock/
+.pytest_cache/
+.venv/

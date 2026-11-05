@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" role="img" aria-labelledby="t d">
+  <title id="t">Error highlighter mockup with a text equivalent</title>
+  <desc id="d">SVG mockup authored as code for this demonstration. Not a hand drawing by Dami. A canvas sentence with a wavy underline and a text list of the same span.</desc>
+  <rect width="720" height="460" fill="#f7f1e6"/>
+  <rect x="24" y="20" width="672" height="420" fill="none" stroke="#102033" stroke-width="1.5"/>
+  <text x="44" y="52" fill="#084e4c" font-family="IBM Plex Mono, monospace" font-size="13">MOCKUP · CANVAS PLUS TEXT</text>
+  <text x="44" y="84" fill="#102033" font-family="Georgia, serif" font-size="28">Error highlighter</text>
+  <text x="44" y="118" fill="#3d4c5c" font-family="Source Sans 3, sans-serif" font-size="15">Synthetic sample. Not a real students writing.</text>
+  <rect x="44" y="140" width="360" height="150" fill="#fffdf8" stroke="#102033"/>
+  <text x="58" y="164" fill="#084e4c" font-family="IBM Plex Mono, monospace" font-size="12">CANVAS RENDERING</text>
+  <text x="58" y="210" fill="#14202e" font-family="Source Sans 3, sans-serif" font-size="16">When I was a child I was play</text>
+  <text x="58" y="234" fill="#14202e" font-family="Source Sans 3, sans-serif" font-size="16">football every Friday.</text>
+  <path d="M188 216 q4 4 8 0 t8 0 t8 0 t8 0" fill="none" stroke="#7a2424" stroke-width="1.6"/>
+  <rect x="420" y="140" width="250" height="220" fill="#fffdf8" stroke="#102033"/>
+  <text x="436" y="168" fill="#084e4c" font-family="IBM Plex Mono, monospace" font-size="12">TEXT EQUIVALENT</text>
+  <text x="436" y="206" fill="#14202e" font-family="Source Sans 3, sans-serif" font-size="15">was play</text>
+  <rect x="436" y="188" width="72" height="22" fill="#f3c7be"/>
+  <text x="436" y="206" fill="#14202e" font-family="Source Sans 3, sans-serif" font-size="15">was play</text>
+  <text x="436" y="246" fill="#3d4c5c" font-family="Source Sans 3, sans-serif" font-size="14">Habitual past. A teacher</text>
+  <text x="436" y="266" fill="#3d4c5c" font-family="Source Sans 3, sans-serif" font-size="14">correction for a past habit</text>
+  <text x="436" y="286" fill="#3d4c5c" font-family="Source Sans 3, sans-serif" font-size="14">is used to play.</text>
+  <text x="44" y="340" fill="#102033" font-family="Source Sans 3, sans-serif" font-size="16">Arrow keys change the sample. The canvas is aria-hidden.</text>
+  <text x="44" y="372" fill="#102033" font-family="Source Sans 3, sans-serif" font-size="16">The mark and the note list are the accessible equivalent.</text>
+  <text x="44" y="418" fill="#084e4c" font-family="IBM Plex Mono, monospace" font-size="12">Spans are character offsets into a known sentence. No student data.</text>
+</svg>

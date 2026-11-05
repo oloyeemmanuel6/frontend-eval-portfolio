@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" role="img" aria-labelledby="t d">
+  <title id="t">CEFR gauge mockup, B2 selected</title>
+  <desc id="d">SVG mockup authored as code for this demonstration. Not a hand drawing by Dami. Six bands from A1 at the left to C2 at the right, needle on B2.</desc>
+  <rect width="720" height="460" fill="#f7f1e6"/>
+  <rect x="24" y="20" width="672" height="420" fill="none" stroke="#102033" stroke-width="1.5"/>
+  <text x="44" y="52" fill="#084e4c" font-family="IBM Plex Mono, monospace" font-size="13">MOCKUP · ONE STATE · NOT THE INITIAL VALUE</text>
+  <text x="44" y="84" fill="#102033" font-family="Georgia, serif" font-size="28">CEFR gauge</text>
+  <path d="M 160.0 290.0 A 180 180 0 0 1 184.1 200.0 L 232.6 228.0 A 124 124 0 0 0 216.0 290.0 Z" fill="#e4d8c4" stroke="#102033"/>
+  <path d="M 184.1 200.0 A 180 180 0 0 1 250.0 134.1 L 278.0 182.6 A 124 124 0 0 0 232.6 228.0 Z" fill="#e4d8c4" stroke="#102033"/>
+  <path d="M 250.0 134.1 A 180 180 0 0 1 340.0 110.0 L 340.0 166.0 A 124 124 0 0 0 278.0 182.6 Z" fill="#e4d8c4" stroke="#102033"/>
+  <path d="M 340.0 110.0 A 180 180 0 0 1 430.0 134.1 L 402.0 182.6 A 124 124 0 0 0 340.0 166.0 Z" fill="#0c6e6a" stroke="#102033"/>
+  <path d="M 430.0 134.1 A 180 180 0 0 1 495.9 200.0 L 447.4 228.0 A 124 124 0 0 0 402.0 182.6 Z" fill="#e4d8c4" stroke="#102033"/>
+  <path d="M 495.9 200.0 A 180 180 0 0 1 520.0 290.0 L 464.0 290.0 A 124 124 0 0 0 447.4 228.0 Z" fill="#e4d8c4" stroke="#102033"/>
+  <g fill="#14202e" font-family="IBM Plex Mono, monospace" font-size="14" text-anchor="middle">
+    <text x="139" y="246">A1</text>
+    <text x="193" y="148">A2</text>
+    <text x="286" y="92">B1</text>
+    <text x="394" y="92" font-weight="700">B2</text>
+    <text x="487" y="148">C1</text>
+    <text x="541" y="246">C2</text>
+  </g>
+  <line x1="340" y1="290" x2="378.8" y2="145.1" stroke="#102033" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="340" cy="290" r="7" fill="#d6f25c" stroke="#102033" stroke-width="2"/>
+  <text x="44" y="360" fill="#102033" font-family="Georgia, serif" font-size="22">Selected level B2. Vantage.</text>
+  <text x="44" y="392" fill="#3d4c5c" font-family="Source Sans 3, sans-serif" font-size="16">Sample control. Not a learner record.</text>
+  <text x="44" y="418" fill="#084e4c" font-family="IBM Plex Mono, monospace" font-size="12">A1 at the left. C2 at the right. Text states the level. Colour is not the only signal.</text>
+</svg>

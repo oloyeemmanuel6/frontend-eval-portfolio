@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 460" role="img" aria-labelledby="t d">
+  <title id="t">Flashcard mockup, front of card 1</title>
+  <desc id="d">SVG mockup authored as code for this demonstration. Not a hand drawing by Dami. A card face, the word Front, and keyboard hints.</desc>
+  <rect width="720" height="460" fill="#f7f1e6"/>
+  <rect x="24" y="20" width="672" height="420" fill="none" stroke="#102033" stroke-width="1.5"/>
+  <text x="44" y="52" fill="#084e4c" font-family="IBM Plex Mono, monospace" font-size="13">MOCKUP · FRONT · CARD 1 OF 4</text>
+  <text x="44" y="84" fill="#102033" font-family="Georgia, serif" font-size="28">Flashcards</text>
+  <rect x="44" y="108" width="420" height="210" fill="#fffdf8" stroke="#102033"/>
+  <text x="64" y="140" fill="#084e4c" font-family="IBM Plex Mono, monospace" font-size="13">FRONT</text>
+  <text x="64" y="190" fill="#102033" font-family="Georgia, serif" font-size="26">Standard Nigerian English:</text>
+  <text x="64" y="226" fill="#102033" font-family="Georgia, serif" font-size="26">next tomorrow</text>
+  <text x="64" y="286" fill="#3d4c5c" font-family="Source Sans 3, sans-serif" font-size="16">Card 1 of 4</text>
+  <g font-family="Source Sans 3, sans-serif" font-size="16">
+    <rect x="490" y="140" width="170" height="44" fill="#102033"/>
+    <text x="575" y="168" fill="#f3ecdf" text-anchor="middle">Flip</text>
+    <rect x="490" y="198" width="78" height="44" fill="#fffdf8" stroke="#102033"/>
+    <text x="529" y="226" fill="#102033" text-anchor="middle">Prev</text>
+    <rect x="582" y="198" width="78" height="44" fill="#efeae2" stroke="#102033"/>
+    <text x="621" y="226" fill="#102033" text-anchor="middle">Next</text>
+  </g>
+  <text x="44" y="360" fill="#102033" font-family="Source Sans 3, sans-serif" font-size="16">Left and Right change cards. Enter or Space on the card flips it.</text>
+  <text x="44" y="392" fill="#102033" font-family="Source Sans 3, sans-serif" font-size="16">The side is the word Front or Back. A rotation is not required.</text>
+  <text x="44" y="418" fill="#084e4c" font-family="IBM Plex Mono, monospace" font-size="12">Synthetic practice cards. Not a students deck.</text>
+</svg>

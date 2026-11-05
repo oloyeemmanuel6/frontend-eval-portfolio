@@ -1,0 +1,25 @@
+{
+ "_comment": "Free-tier run: only ':free' OpenRouter models (checked 2026-11-01). thinkingmachines/inkling:free was dropped: the API returned HTTP 403 'only available on agentic harnesses'. The judge must NOT be one of the tested models.",
+ "models": [
+  "google/gemma-4-31b-it:free",
+  "xingchen-agi/xing4.0-29b-a4b:free",
+  "dots-studio/dots-3-note-preview:free"
+ ],
+ "judge_model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+ "trials": 3,
+ "temperature": 0,
+ "max_tokens": 16000,
+ "judge_max_tokens": 4000,
+ "system_prompt": "You are an experienced teacher of English as a second language. Answer the task exactly as instructed.",
+ "concurrency": 1,
+ "request_timeout_s": 300,
+ "paid_models_future_work": [
+  "openai/gpt-6-astra",
+  "anthropic/claude-opus-5.5",
+  "google/gemini-4-argon",
+  "deepseek/deepseek-v4-pro-0813"
+ ],
+ "judge_mode": "batched",
+ "free_only": true,
+ "min_seconds_between_calls": 4
+}
